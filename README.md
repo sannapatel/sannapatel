@@ -140,7 +140,7 @@ I'm **Sanjana N Patel D**, a cybersecurity student passionate about understandin
 <div align="center">
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-sanjanan1035-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sanjanan1035)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-sanjanan1035-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sannapatel)
+[![GitHub](https://img.shields.io/badge/GitHub-sannapatel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sannapatel)
 
 </div>
 
