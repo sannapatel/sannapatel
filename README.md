@@ -150,6 +150,6 @@ I'm **Sanjana N Patel D**, a cybersecurity student passionate about understandin
 
 *"The quieter you become, the more you are able to hear."* — Kali Linux
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sanjanan1035&color=red&style=for-the-badge&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=sannapatel&color=red&style=for-the-badge&label=Profile+Views)
 
 </div>
