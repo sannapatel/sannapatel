@@ -28,7 +28,7 @@ I'm **Sanjana N Patel D**, a cybersecurity student passionate about understandin
 
 <div align="center">
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sanjanan1035.png)](https://tryhackme.com/p/sanjanan1035)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sanjanan1035.png)](https://tryhackme.com/p/sanjanan1035?tab=badges)
 
 <br>
 
@@ -135,25 +135,12 @@ I'm **Sanjana N Patel D**, a cybersecurity student passionate about understandin
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sanjana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjanan1035&show_icons=true&theme=radical&hide_border=true&count_private=true)&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanan1035&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sanjanan1035&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-sanjanan1035-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sanjanan1035)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-sanjanan1035-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjanan1035)
+[![GitHub](https://img.shields.io/badge/GitHub-sanjanan1035-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sannapatel)
 
 </div>
 
